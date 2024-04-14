@@ -1,1 +1,13 @@
+# Introduction
+Accumulate Api is a server side application that manages user and wallet informaton. This is a web-2 based system that will utilize the powerful encryption features of Accumulate to secure information.
+
+This document discusses the design service and domain layers of the applications.
+
+
+# Domain Layer
+
+
+
+
+
 
