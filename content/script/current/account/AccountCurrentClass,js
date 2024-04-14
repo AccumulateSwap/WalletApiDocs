@@ -1,0 +1,12 @@
+class AccountCurrentClass {
+    constructor() {
+        this._type = "AccountCurrentClass"; 
+        this.account = null;
+        this._setDefaultAccount();
+
+
+    }
+    _setDefaultAccount() {
+        this.account = new AccountClass();        
+    }
+}
